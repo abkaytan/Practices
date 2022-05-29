@@ -1,7 +1,6 @@
+---
 
 # Practices 
-
----
 
 ## Contents
 
@@ -14,7 +13,6 @@
 - ReverseString
 - UserPasswordControl
 
----
 
 ### Descriptions
 
