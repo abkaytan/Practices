@@ -1,5 +1,5 @@
 ---
-##Practices 
+#Practices 
 
 - BreadQueue
 - CalculatorPro
@@ -12,7 +12,7 @@
 
 ---
 
-###Descriptions
+##Descriptions
 
 ```sh 
 1. BreadQueue
