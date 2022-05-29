@@ -1,5 +1,9 @@
 
-##Practices 
+# Practices 
+
+---
+
+## Contents
 
 - BreadQueue
 - CalculatorPro
@@ -12,7 +16,7 @@
 
 ---
 
-###Descriptions
+### Descriptions
 
 ```
 1. BreadQueue
