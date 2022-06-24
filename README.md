@@ -12,6 +12,7 @@
 - Palindrome
 - ReverseString
 - UserPasswordControl
+- HackerRanks Studies
 
 
 ### Descriptions
